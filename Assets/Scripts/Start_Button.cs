@@ -7,7 +7,7 @@ public class Start_Button : MonoBehaviour
 {
     public void OnClickStart()
     {
-        SceneManager.LoadScene("Arena");
-        //SceneManager.LoadScene("Loading");
+        //SceneManager.LoadScene("Arena");
+        SceneManager.LoadScene("Loading");
     }
 }
